@@ -1,6 +1,4 @@
 <h2 align="center">👨‍💻 Gowtham Kumar</h2>
-<h3 align="center">Full-Stack .NET & React Developer</h3>
-
  <p align="center">
   <img src="https://raw.githubusercontent.com/Gowthamkumar91/Gowthamkumar91/main/assets/developer.gif.gif" alt="Developer Animation" width="600"/>
 </p>
