@@ -12,7 +12,7 @@
  </p>
 <br/>
   
-<h2 align="center"> 💼 Tech Stack I Work With </h2>
+<h2 align="center"> 🧠 Tech Stack I Work With </h2>
  <h3 align="center"> Front-End</h3>
   <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="100" height="100" />
@@ -43,7 +43,7 @@
    <h4 align="center"> Stored Procedures, Joins, Views </h4>
    </p> 
    </br>
-   <h3 align="center">🧰 Tools & Technologies I Use</h3>
+   <h3 align="center">🛠️ Tools & Technologies I Use</h3>
    <p align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="100" height="100" /> &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="100" height="100" />&nbsp;&nbsp
@@ -80,8 +80,10 @@
    <p align="center">
   <a href="mailto:gowthamcoder91@gmail.com">✉️ gowthamcoder91@gmail.com</a>  
   |
-  <a href="https://www.linkedin.com/in/gowthamkumar91/">LinkedIn</a>  
+  <a href="https://www.linkedin.com/in/gowtham-kumar-dev/">🔗LinkedIn</a>  
   |
-  <a href="https://gowthamkumar-portfolio.vercel.app">Portfolio</a>
+  <a href="https://www.github.com/Gowthamkumar91/">💻GitHub</a> 
+  |
+  <a href="https://gowthamkumar-portfolio.vercel.app">🌐Portfolio</a>
 </p>
  
