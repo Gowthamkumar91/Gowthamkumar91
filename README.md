@@ -72,7 +72,8 @@
   <h2 align="center"> 📊 GitHub Stats </h2>
   <p align="center">
    <img src ="https://github-readme-stats.vercel.app/api?username=Gowthamkumar91&show_icons=true&theme=transparent" />
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Gowthamkumar91&theme=transparent" />&nbsp;&nbsp
+   
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Gowthamkumar91&theme=transparent" />&nbsp;&nbsp;
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gowthamkumar91&layout=compact&theme=transparent" />
   </p>
 
