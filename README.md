@@ -13,7 +13,7 @@
 <br/>
   
 <h2 align="center"> 🧠 Tech Stack I Work With </h2>
- <h3 align="center"> Front-End</h3>
+ <h3 align="center">💻 Front-End</h3>
   <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="100" height="100" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="100" height="100" />&nbsp;&nbsp;
@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain-wordmark.svg" width="150" height="150" />&nbsp;
    </p>
    </br>
-  <h3 align="center"> Back-End </h3>
+  <h3 align="center">⚙️ Back-End </h3>
   <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="100" height="100"  />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" height="100"  />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -37,7 +37,7 @@
   </p>
    </br>
    
-   <h3 align="center"> DataBase</h3>
+   <h3 align="center">🗄️ DataBase</h3>
    <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="90" height="90"  />
    <h4 align="center"> Stored Procedures, Joins, Views </h4>
@@ -54,12 +54,12 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" width="150" height="150"/>  
    </p>
     </br>
-  <h2 align="center"> Frameworks & Libraries </h2>
+  <h2 align="center"> ⚛️ Frameworks & Libraries </h2>
   <h4 align="center"> JWT, ASP.NET Identity, SMTP, LINQ, FluentValidation </h4>
   </br>
   
   <h2 align="center"> 🚀 Featured Project </h2>
-  <h4 align="center"> 🛒 Organic Products E-Commerce (Full-Stack Web Application) </h4>
+  <h3 align="center"> 🛒 Organic Products E-Commerce (Full-Stack Web Application) </h3>
   <p align="center">
    A self-initiated full-stack project showcasing an online organic store for fruits, dry fruits, and vegetables.  
    Developed using  <b>ASP.NET Core MVC, EF Core, ADO.NET, SQL Server, HTML, CSS, and Bootstrap. </b> 
@@ -71,8 +71,8 @@
 
   <h2 align="center"> 📊 GitHub Stats </h2>
   <p align="center">
-   <img src ="https://github-readme-stats.vercel.app/api?username=Gowthamkumar91&show_icons=true&theme=transparent" />
-  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=Gowthamkumar91&heme=transparent" />
+   <img src ="https://github-readme-stats.vercel.app/api?username=Gowthamkumar91&show_icons=true&theme=transparent" />&nbsp;&nbsp
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Gowthamkumar91&theme=transparent" />
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gowthamkumar91&layout=compact&theme=transparent" />
   </p>
 
@@ -86,4 +86,6 @@
   |
   <a href="https://gowthamkumar-portfolio.vercel.app">🌐Portfolio</a>
 </p>
+
+
  
